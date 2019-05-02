@@ -1,0 +1,14 @@
+Date: Fri, 12 Oct 2018 16:44:35 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: 1P_JAR=2018-10-12-16; expires=Sun, 11-Nov-2018 16:44:35 GMT; path=/; domain=.google.com
+Set-Cookie: NID=141=CFn1n4MsgA_4RvlpxVqyeVFCT9uriXQyN1wvrKB1BHeEr8oe8pRxYlsigjale2eFYYRfUpEbkitGE9cJ0Q-vMrBzySH126s1KwgA6WOII9HmmuEr0Q5eYhXZHpDKs19o; expires=Sat, 13-Apr-2019 16:44:35 GMT; path=/; domain=.google.com; HttpOnly
+Accept-Ranges: none
+Vary: Accept-Encoding
+Connection: close
+

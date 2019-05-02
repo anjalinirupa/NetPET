@@ -1,0 +1,24 @@
+-------Instructions------
+
+1.Basic_Connection
+	server port=> 5000
+	up:
+	
+2.TCP
+	server port=> 6000
+	req:txt.txt
+	
+3.Proxy_Basics
+	server port => 7000
+	req:txt2.txt
+	
+4.One_Server-Multi_Client
+	server port => 9000
+	up:
+
+5.Dijkstra_Shortest_Path
+	
+6.Cookie_Analyzer
+
+7.Header_Analyzer
+
